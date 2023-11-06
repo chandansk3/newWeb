@@ -1,0 +1,9 @@
+git commands:
+git init
+git add .
+git commit -m "txt"
+git status
+git  log
+git branch
+git branch branch name
+git checkout branch name
